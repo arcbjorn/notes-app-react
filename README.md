@@ -1,4 +1,4 @@
-# Notes app using React, Bootstrap and react-hooks & router)
+# Notes app using React, Bootstrap and react-hooks & router
 
 ### `npm install` && `npm start`
 
